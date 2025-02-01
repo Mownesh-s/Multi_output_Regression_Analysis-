@@ -127,8 +127,8 @@ We apply various regression models to evaluate the best approach for accurate pr
 )
 
 📌 **Predicted Values**
-![Predicted]  
-(![image](https://github.com/user-attachments/assets/b66cbf48-598b-451d-b509-6294cca53f3a),![image](https://github.com/user-attachments/assets/0bc9aa13-842a-4a38-89d5-a2f22c68f4e2)
+![Predicted](  
+![image](https://github.com/user-attachments/assets/b66cbf48-598b-451d-b509-6294cca53f3a),![image](https://github.com/user-attachments/assets/0bc9aa13-842a-4a38-89d5-a2f22c68f4e2)
 
 )
 
