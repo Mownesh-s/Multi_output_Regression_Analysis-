@@ -128,8 +128,9 @@ We apply various regression models to evaluate the best approach for accurate pr
 ![PCA Scatter Plot](https://via.placeholder.com/600x300?text=PCA+Scatter+Plot) *(Replace with actual image)*
 
 📌 **Error Distribution**
-![Error Distribution](https://via.placeholder.com/600x300?text=Error+Distribution) *(Replace with actual image)*
+![Error Distribution](![image](https://github.com/user-attachments/assets/09341200-67e2-4aad-b61b-57ab6b78f22f),![image](https://github.com/user-attachments/assets/abab4ab5-dc10-494a-80e2-531cb32d64df)
 
+) 
 ---
 
 ## 🔍 Conclusion
