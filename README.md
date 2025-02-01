@@ -156,6 +156,6 @@ We apply various regression models to evaluate the best approach for accurate pr
    ```
 3. **Run the classification script**:
    ```bash
-   python MULTICLASS CLASSIFICATION PYTHON FILE.PY
+   python Multi-Output Regression Analysis python script.PY
    ```
 4. **Check results and visualizations** in the console.
